@@ -72,3 +72,5 @@ public String getBaseUrl(){
     return  ComponentAccessor.getApplicationProperties().getString(APKeys.JIRA_BASEURL);
 
 }
+
+//end

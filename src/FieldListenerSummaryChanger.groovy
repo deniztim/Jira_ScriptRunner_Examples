@@ -27,3 +27,5 @@ issueManager.updateIssue(event.getUser(),issue,EventDispatchOption.DO_NOT_DISPAT
 else {
     return null
 }
+
+//end
